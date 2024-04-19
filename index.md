@@ -1,8 +1,17 @@
-# This is an \<H1\> header
-## This is an \<H2\> header
-### This is an \<H3\> header
-#### This is an \<H4\> header
-##### This is an \<H5\> header
-###### This is an \<H6\> header
+# Sratch Space for Learning Experiments
 
-![Image of a cute hamster](https://www.rd.com/wp-content/uploads/2021/04/GettyImages-105082519-e1618341362696.jpg)
+## Example Python Code
+Code created in Python might looks like this:
+``` python
+def numberPrn(counter: int) -> None:
+  x = 0
+  while x < counter:
+    print(x + 1)
+    x += 1
+
+numberPrn(10)
+```
+
+![Image of a cute hamster](https://cdn-icons-png.flaticon.com/512/616/616641.png)
+
+
