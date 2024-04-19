@@ -11,6 +11,18 @@ def numberPrn(counter: int) -> None:
 
 numberPrn(10)
 ```
+## Moving for AWS Lightsail to GitHub Pages
+Complete the following tasks
+
+- [x] Create a new snapshot of your Lightsail instance
+- [ ] Create a new repository on Github
+- [ ] Copy web assets from AWS to Github
+- [ ] Change DNS to point to the new location on GitHub
+
+
+## Conclusion
+
+Thanks for participating in this GitHub exercise.
 
 ![Image of a cute hamster](https://cdn-icons-png.flaticon.com/512/616/616641.png)
 
